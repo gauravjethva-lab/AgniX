@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Metasploit Exploit Module Generator
 
 **Professional Penetration Testing Tool for Kali Linux & Windows**
@@ -478,3 +479,7 @@ MIT License - See LICENSE file for details
 ---
 
 **Happy Hacking! 🔓**
+=======
+# AgniX
+AgniX is a modular offensive-security toolkit designed to streamline Metasploit module generation, payload workflows, and security testing in authorized lab environments.
+>>>>>>> 46ebb97bbec873f0dd8861bad5eddd06d4708022
